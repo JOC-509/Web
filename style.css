@@ -1,0 +1,13 @@
+body{background-color:#ffa07a;}
+h1{font-family: "Helvetica";font-size: 47px; text-align: center;}
+p{font-family: Garamond;font-size: 27px;text-align:}
+img{border-width: 5px;border-color: #33FF81 ;border-style: double;}
+.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+a{color: #50755E ;font-family: Garamond;font-size: 23px;text-decoration: blink;}
+a:hover{color: #3433DD ;}
+a:visited{color: #DD33B7;}
+ul{list-style-type:numbers;}
